@@ -1,0 +1,33 @@
+body {
+  background-color: #E9ECEF;
+}
+
+h1 {
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+  border-bottom: 2px solid #f5f5f5;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  margin-left: 45%;
+}
+
+.about {
+  margin-left: 45%;
+}
+
+#navbarDropdown {
+  color: #E9ECEF;
+}
+
+.dropdown-item:hover {
+  background-color: rgb(61, 65, 65);
+  color: white;
+}
