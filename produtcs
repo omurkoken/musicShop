@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+    integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+
+  <title>Ürünlerimiz</title>
+
+</head>
+
+<body>
+  <div class="header">
+
+    <div class="bg-dark d-flex flex-row bd-highlight mb-3">
+
+      <a class="text-danger p-2 bd-highlight" href="index.html">Müzik Dükkanım</a>
+      <a class="text-white p-2 bd-highlight" href="index.html">Ana Sayfa</a>
+      <a class="text-white p-2 bd-highlight" href="products.html">Ürünlerimiz</a>
+      <a class="text-white p-2 bd-highlight" href="about_us.html">Hakkımızda</a>
+    </div>
+
+    <div class="container text-center">
+      <div class="card-group">
+        <div class="card col-md-4" >
+          <a href="/products/gitar.html"><img class="card-img-top" src="images/gitar.jpg" alt="guitar"  ></a>
+          <div class="card-body" >
+            <h3 class="card-title">GİTAR</h2>
+              <p class="card-text">3000 TL</strong>
+          </div>
+        </div>
+        <div class="card col-md-4">
+          <img class="card-img-top" src="images/davul.jpg" alt="davul">
+          <div class="card-body">
+            <h3 class="card-title">DAVUL</h2>
+              <p class="card-text">2000 TL</strong>
+          </div>
+        </div>
+        <div class="card col-md-4">
+          <img class="card-img-top" src="images/piyano.jpg" alt="piyano">
+          <div class="card-body">
+            <h3 class="card-title">PİYANO</h2>
+              <p class="card-text">8000 TL</strong>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="card-group">
+        <div class="card col-md-4">
+          <img class="card-img-top" src="images/keman.jpg" alt="keman">
+          <div class="card-body">
+            <h3 class="card-title">KEMAN</h2>
+              <p class="card-text">4000 TL</strong>
+          </div>
+        </div>
+        <div class="card col-md-4">
+          <img class="card-img-top" src="images/flüt.jpg" alt="flüt">
+          <div class="card-body">
+            <h3 class="card-title">FLÜT</h2>
+              <p class="card-text">1500 TL</strong>
+          </div>
+        </div>
+        <div class="card col-md-4">
+          <img class="card-img-top" src="images/bağlama.jpg" alt="bağlama">
+          <div class="card-body">
+            <h3 class="card-title">BAĞLAMA</h2>
+              <p class="card-text">1000 TL</strong>
+          </div>
+        </div>
+      </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    -->
+</body>
+
+</html>
